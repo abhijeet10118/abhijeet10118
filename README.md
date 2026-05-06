@@ -24,10 +24,6 @@
 
 ---
 
-![Pac-Man](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893b3daf6cf2/.images/marquee.svg)
-
----
-
 ## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -81,6 +77,12 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=abhijeet10118&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 📅 Contribution Graph
+
+![Abhijeet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijeet10118&theme=github-compact&hide_border=false&area=true)
 
 ---
 
