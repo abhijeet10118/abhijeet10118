@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+at+the+intersection+of+Web+%26+AI+%F0%9F%9A%80;Solving+DSA+Problems+in+C%2B%2B+%F0%9F%A7%A0;React+%2B+Django+%2B+Machine+Learning+%E2%9C%A8;Open+to+Internship+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Building+at+the+intersection+of+Web+%26+AI+%F0%9F%9A%80;Solving+DSA+Problems+in+C%2B%2B+%F0%9F%A7%A0;React+%2B+Django+%2B+Machine+Learning+%E2%9C%A8;Open+to+Internship+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 
 </div>
 
@@ -123,7 +123,13 @@ int main() {
 <div align="center">
 
 <a href="https://leetcode.com/u/ABHIJEET10118/">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=ABHIJEET10118&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-badge-sage.vercel.app/badge/ABHIJEET10118?theme=dark&bgColor=0d1117" alt="LeetCode Badge" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/ABHIJEET10118/">
+  <img src="https://img.shields.io/badge/View%20LeetCode%20Profile%20→-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
