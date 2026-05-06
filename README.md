@@ -123,7 +123,7 @@ int main() {
 <div align="center">
 
 <a href="https://leetcode.com/u/ABHIJEET10118/">
-  <img src="https://leetcard.jacoblin.cool/ABHIJEET10118?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=ABHIJEET10118&theme=dark" alt="LeetCode Stats" />
 </a>
 
 </div>
