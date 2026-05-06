@@ -54,13 +54,9 @@
 
 ## 🚀 Featured Repositories
 
-<!-- Replace REPO-NAME and DESCRIPTION with your actual repo names and descriptions -->
+[![inventory](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=inventory&theme=dark&hide_border=false)](https://github.com/abhijeet10118/inventory) [![balloonSatGUI](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=balloonSatGUI&theme=dark&hide_border=false)](https://github.com/abhijeet10118/balloonSatGUI)
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=REPO-NAME-1&theme=dark&hide_border=false)](https://github.com/abhijeet10118/REPO-NAME-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=REPO-NAME-2&theme=dark&hide_border=false)](https://github.com/abhijeet10118/REPO-NAME-2)
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=REPO-NAME-3&theme=dark&hide_border=false)](https://github.com/abhijeet10118/REPO-NAME-3)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=REPO-NAME-4&theme=dark&hide_border=false)](https://github.com/abhijeet10118/REPO-NAME-4)
+[![Sphurti](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=Sphurti&theme=dark&hide_border=false)](https://github.com/abhijeet10118/Sphurti) [![kAryapravAha](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=kAryapravAha&theme=dark&hide_border=false)](https://github.com/abhijeet10118/kAryapravAha)
 
 ---
 
