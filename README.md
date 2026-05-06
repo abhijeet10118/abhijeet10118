@@ -90,8 +90,9 @@
 
 ## 📅 GitHub Contributions
 
-![Abhijeet's Contribution Calendar](https://ghchart.rshah.org/39d353/abhijeet10118)
+## 📅 Contribution Graph
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijeet10118&theme=github-dark)
 ---
 
 [![](https://komarev.com/ghpvc/?username=abhijeet10118&color=blue&style=for-the-badge)](https://github.com/abhijeet10118)
