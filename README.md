@@ -102,13 +102,10 @@
 
 ---
 
-## 📅 GitHub Contributions
+## 📅 Contribution Calendar
 
-## 📅 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijeet10118&theme=github-dark)
----
-
-[![](https://komarev.com/ghpvc/?username=abhijeet10118&color=blue&style=for-the-badge)](https://github.com/abhijeet10118)
+<p align="center">
+  <img src="https://ghchart.rshah.org/abhijeet10118" alt="Abhijeet's Github chart" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
