@@ -96,9 +96,9 @@ I'm Abhijeet, ML Enthusiast &amp; Full-Stack Developer from <img src="https://cd
   <img src="https://github-profile-trophy.vercel.app/?username=abhijeet10118&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
-<h3>📅 Contribution Graph</h3>
+<h3>📅 Contribution Calendar</h3>
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeet10118&theme=github-compact&hide_border=true" />
+  <img src="https://ghchart.rshah.org/39d353/abhijeet10118" alt="Abhijeet's GitHub Contribution Chart" width="100%" />
 </p>
 
 <h3>✍️ Random Dev Quote</h3>
