@@ -92,16 +92,6 @@ class Abhijeet:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🎁 Project | ⭐ Stars | 🍴 Forks | 🛎 Issues | 📬 PRs |
-|:---:|:---:|:---:|:---:|:---:|
-| [**Inventory**](https://github.com/abhijeet10118/inventory) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/inventory?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/inventory?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/inventory?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/inventory?style=flat-square&labelColor=343b41) |
-| [**Sphurti**](https://github.com/abhijeet10118/Sphurti) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) |
-| [**kAryapravAha**](https://github.com/abhijeet10118/kAryapravAha) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) |
-| [**prana**](https://github.com/abhijeet10118/prana) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/prana?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/prana?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/prana?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/prana?style=flat-square&labelColor=343b41) |
 
 </div>
 
