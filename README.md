@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Abhijeet%20Sandilya&fontSize=60&fontColor=58A6FF&fontAlignY=38&desc=ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Abhijeet%20Sandilya&fontSize=60&fontColor=58A6FF&fontAlignY=38&desc=ML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20DSA%20Practitioner&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+at+the+intersection+of+Web+%26+AI+%F0%9F%9A%80;React+%2B+Django+%2B+Machine+Learning+%E2%9C%A8;Open+to+Internship+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+at+the+intersection+of+Web+%26+AI+%F0%9F%9A%80;Solving+DSA+Problems+in+C%2B%2B+%F0%9F%A7%A0;React+%2B+Django+%2B+Machine+Learning+%E2%9C%A8;Open+to+Internship+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 
 </div>
 
@@ -20,8 +20,16 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/abhijeet-sandilya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:abhijeet3390@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/ABHIJEET10118/"><img src="https://img.shields.io/badge/LeetCode-ABHIJEET10118-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 &nbsp;
+<a href="mailto:abhijeet3390@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=abhijeet10118&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
@@ -32,18 +40,31 @@
 
 ## 🧬 About Me
 
-```python
-class Abhijeet:
-    name       = "Abhijeet Sandilya"
-    location   = "Patna, India 🇮🇳"
-    role       = "ML Enthusiast & Full-Stack Developer"
-    stack      = ["React", "Django", "Python", "TensorFlow"]
-    interests  = ["Machine Learning", "Web Dev", "Open Source"]
-    currently  = "Building things at the intersection of Web & AI"
-    open_to    = "Internship Opportunities 🚀"
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing.")
+class Abhijeet {
+public:
+    string name       = "Abhijeet Sandilya";
+    string location   = "Hazaribagh, Jharkhand 🇮🇳";
+    string university = "VIT Bhopal University 🎓";
+    string role       = "ML Enthusiast & Full-Stack Developer";
+    vector<string> stack     = {"React", "Django", "Python", "TensorFlow", "C++"};
+    vector<string> interests = {"Machine Learning", "Web Dev", "DSA", "Open Source"};
+    string currently  = "Grinding DSA in C++ + Building Web & AI projects";
+    string open_to    = "Internship Opportunities 🚀";
+
+    void say_hi() {
+        cout << "Thanks for dropping by! Let's build something amazing." << endl;
+    }
+};
+
+int main() {
+    Abhijeet me;
+    me.say_hi();
+    return 0;
+}
 ```
 
 ---
@@ -67,7 +88,6 @@ class Abhijeet:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
@@ -81,6 +101,12 @@ class Abhijeet:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
+**DSA & Competitive Programming**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![STL](https://img.shields.io/badge/STL-Data%20Structures-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -90,7 +116,49 @@ class Abhijeet:
 
 </div>
 
+---
 
+## 🧩 DSA & Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ABHIJEET10118/">
+  <img src="https://leetcard.jacoblin.cool/ABHIJEET10118?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 📚 Topic | ✅ Status |
+|:---|:---:|
+| Arrays & Strings | 🟢 Active |
+| Linked Lists | 🟢 Active |
+| Stacks & Queues | 🟢 Active |
+| Trees & Graphs | 🟡 In Progress |
+| Dynamic Programming | 🟡 In Progress |
+| Greedy & Backtracking | 🔵 Upcoming |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🎁 Project | ⭐ Stars | 🍴 Forks | 🛎 Issues | 📬 PRs |
+|:---:|:---:|:---:|:---:|:---:|
+| [**Inventory**](https://github.com/abhijeet10118/inventory) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/inventory?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/inventory?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/inventory?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/inventory?style=flat-square&labelColor=343b41) |
+| [**Sphurti**](https://github.com/abhijeet10118/Sphurti) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) |
+| [**kAryapravAha**](https://github.com/abhijeet10118/kAryapravAha) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) |
+| [**prana**](https://github.com/abhijeet10118/prana) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/prana?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/prana?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/prana?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/prana?style=flat-square&labelColor=343b41) |
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
