@@ -24,21 +24,7 @@
 
 ---
 
-## 🕹️ Pac-Man
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijeet10118/abhijeet10118/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijeet10118/abhijeet10118/output/github-contribution-grid-snake.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhijeet10118/abhijeet10118/output/github-contribution-grid-snake.svg">
-</picture>
-
-> **Note:** To enable the Pac-Man animation, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your repo. It generates the grid automatically on each push.
-
-Alternatively, embed this static Pac-Man SVG (no Action needed):
-
-```
 ![Pac-Man](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893b3daf6cf2/.images/marquee.svg)
-```
 
 ---
 
