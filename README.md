@@ -129,7 +129,7 @@ int main() {
 <br/><br/>
 
 <a href="https://leetcode.com/u/ABHIJEET10118/">
-  <img src="https://img.shields.io/badge/LeetCode-ABHIJEET10118-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://leetcard.jacoblin.cool/ABHIJEET10118?theme=dark&font=Karma&ext=contest" />
 </a>
 
 </div>
