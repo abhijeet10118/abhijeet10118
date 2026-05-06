@@ -92,6 +92,16 @@ class Abhijeet:
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🎁 Project | ⭐ Stars | 🍴 Forks | 🛎 Issues | 📬 PRs |
+|:---:|:---:|:---:|:---:|:---:|
+| [**Inventory**](https://github.com/abhijeet10118/inventory) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/inventory?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/inventory?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/inventory?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/inventory?style=flat-square&labelColor=343b41) |
+| [**Sphurti**](https://github.com/abhijeet10118/Sphurti) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/Sphurti?style=flat-square&labelColor=343b41) |
+| [**kAryapravAha**](https://github.com/abhijeet10118/kAryapravAha) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/kAryapravAha?style=flat-square&labelColor=343b41) |
+| [**prana**](https://github.com/abhijeet10118/prana) | ![Stars](https://img.shields.io/github/stars/abhijeet10118/prana?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/abhijeet10118/prana?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/abhijeet10118/prana?style=flat-square&labelColor=343b41) | ![PRs](https://img.shields.io/github/issues-pr/abhijeet10118/prana?style=flat-square&labelColor=343b41) |
 
 </div>
 
@@ -100,12 +110,6 @@ class Abhijeet:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijeet10118&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet10118&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=abhijeet10118&theme=github-dark-blue&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&background=0d1117" />
 
