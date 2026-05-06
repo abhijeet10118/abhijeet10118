@@ -1,3 +1,17 @@
+# 👋 Hi, I'm Abhijeet Sandilya
+
+**ML Enthusiast | Web Developer (React + Django)**
+
+📌 Passionate about building intelligent systems and modern web applications.
+
+* 🔭 **Currently working on:** React UI/UX & Machine Learning models
+* 🌱 **Learning:** TensorFlow & Neural Networks
+* 👯 **Open to collaborate on:** ML & Full-Stack projects
+* 🤝 **Seeking:** Internship opportunities
+* 💬 **Ask me about:** React, Django, APIs, ML basics
+* 📫 **Contact:** [abhijeet3390@gmail.com](mailto:abhijeet3390@gmail.com)
+
+⚡ **Fun fact:** I enjoy solving real-world problems using technology 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhijeet-sandilya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijeet3390@gmail.com) 
