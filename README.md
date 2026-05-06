@@ -52,11 +52,25 @@
 
 ---
 
-## 🚀 Featured Repositories
+## 🚀 Featured Projects
 
-[![inventory](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=inventory&theme=dark&hide_border=false)](https://github.com/abhijeet10118/inventory) [![balloonSatGUI](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=balloonSatGUI&theme=dark&hide_border=false)](https://github.com/abhijeet10118/balloonSatGUI)
+<p align="center">
+  <a href="https://github.com/abhijeet10118/inventory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=inventory&theme=dark" />
+  </a>
+  <a href="https://github.com/abhijeet10118/balloonSatGUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=balloonSatGUI&theme=dark" />
+  </a>
+</p>
 
-[![Sphurti](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=Sphurti&theme=dark&hide_border=false)](https://github.com/abhijeet10118/Sphurti) [![kAryapravAha](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=kAryapravAha&theme=dark&hide_border=false)](https://github.com/abhijeet10118/kAryapravAha)
+<p align="center">
+  <a href="https://github.com/abhijeet10118/Sphurti">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=Sphurti&theme=dark" />
+  </a>
+  <a href="https://github.com/abhijeet10118/kAryapravAha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=kAryapravAha&theme=dark" />
+  </a>
+</p>
 
 ---
 
