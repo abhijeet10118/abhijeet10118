@@ -97,3 +97,15 @@
 [![](https://komarev.com/ghpvc/?username=abhijeet10118&color=blue&style=for-the-badge)](https://github.com/abhijeet10118)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Repositories
+
+[![inventory](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=inventory&theme=dark&hide_border=false)](https://github.com/abhijeet10118/inventory) [![Sphurti](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=Sphurti&theme=dark&hide_border=false)](https://github.com/abhijeet10118/Sphurti)
+
+[![kickstart.nvim](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=kickstart.nvim&theme=dark&hide_border=false)](https://github.com/abhijeet10118/kickstart.nvim) [![balloonSatGUI](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=balloonSatGUI&theme=dark&hide_border=false)](https://github.com/abhijeet10118/balloonSatGUI)
+
+[![kAryapravAha](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=kAryapravAha&theme=dark&hide_border=false)](https://github.com/abhijeet10118/kAryapravAha) [![prana](https://github-readme-stats.vercel.app/api/pin/?username=abhijeet10118&repo=prana&theme=dark&hide_border=false)](https://github.com/abhijeet10118/prana)
+
+
+## 📅 GitHub Contributions
+
+![Abhijeet's Contribution Calendar](https://ghchart.rshah.org/39d353/abhijeet10118)
