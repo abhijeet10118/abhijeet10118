@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br>
-I'm Abhijeet, ML Enthusiast & Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>Patna, India</b>, currently studying and building things at the intersection of <b>Web & AI</b>.</p>
+I'm Abhijeet, ML Enthusiast &amp; Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>Patna, India</b>, currently studying and building things at the intersection of <b>Web &amp; AI</b>.</p>
 
 <p>
   <a href="https://readme-typing-svg.demolab.com">
@@ -82,9 +82,9 @@ I'm Abhijeet, ML Enthusiast & Full-Stack Developer from <img src="https://cdn-ic
 
 <h3>📊 GitHub Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet10118&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet10118&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet10118&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet10118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p>
@@ -96,9 +96,9 @@ I'm Abhijeet, ML Enthusiast & Full-Stack Developer from <img src="https://cdn-ic
   <img src="https://github-profile-trophy.vercel.app/?username=abhijeet10118&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
-<h3>📅 Contribution Calendar</h3>
+<h3>📅 Contribution Graph</h3>
 <p>
-  <img src="https://ghchart.rshah.org/39d353/abhijeet10118" alt="Abhijeet's GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeet10118&theme=github-compact&hide_border=true" />
 </p>
 
 <h3>✍️ Random Dev Quote</h3>
@@ -108,7 +108,7 @@ I'm Abhijeet, ML Enthusiast & Full-Stack Developer from <img src="https://cdn-ic
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/abhijeet10118" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/abhijeet10118" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhijeet-sandilya/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abhijeet3390@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -119,4 +119,6 @@ I'm Abhijeet, ML Enthusiast & Full-Stack Developer from <img src="https://cdn-ic
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=abhijeet10118&color=blue&style=flat-square" />
   &nbsp;
   <img alt="Stars" src="https://img.shields.io/github/stars/abhijeet10118?style=flat-square&labelColor=343b41"/>
+  &nbsp;
+  <img alt="Forks" src="https://img.shields.io/github/forks/abhijeet10118?style=flat-square&labelColor=343b41"/>
 </p>
