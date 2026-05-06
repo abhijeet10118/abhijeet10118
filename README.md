@@ -38,35 +38,47 @@
 
 ---
 
-## 🧬 About Me
+🧬 About Me
+<table>
+  <tr>
+    <td>👤 <b>Name</b></td>
+    <td>Abhijeet Sandilya</td>
+  </tr>
+  <tr>
+    <td>📍 <b>From</b></td>
+    <td>Hazaribagh, Jharkhand, India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>University</b></td>
+    <td>VIT Bhopal University</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Role</b></td>
+    <td>ML Enthusiast & Full-Stack Developer</td>
+  </tr>
+  <tr>
+    <td>🛠️ <b>Tech Stack</b></td>
+    <td>React, Django, Python, TensorFlow, C++</td>
+  </tr>
+  <tr>
+    <td>🧠 <b>Interests</b></td>
+    <td>Machine Learning · Web Development · DSA · Open Source</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Currently</b></td>
+    <td>Grinding DSA in C++ & building Web + AI projects</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Open To</b></td>
+    <td>Internship Opportunities</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask Me About</b></td>
+    <td>React, Django, Python, Machine Learning, DSA</td>
+  </tr>
+</table>
 
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-class Abhijeet {
-public:
-    string name       = "Abhijeet Sandilya";
-    string location   = "Hazaribagh, Jharkhand 🇮🇳";
-    string university = "VIT Bhopal University 🎓";
-    string role       = "ML Enthusiast & Full-Stack Developer";
-    vector<string> stack     = {"React", "Django", "Python", "TensorFlow", "C++"};
-    vector<string> interests = {"Machine Learning", "Web Dev", "DSA", "Open Source"};
-    string currently  = "Grinding DSA in C++ + Building Web & AI projects";
-    string open_to    = "Internship Opportunities 🚀";
-
-    void say_hi() {
-        cout << "Thanks for dropping by! Let's build something amazing." << endl;
-    }
-};
-
-int main() {
-    Abhijeet me;
-    me.say_hi();
-    return 0;
-}
-```
-
+"Thanks for dropping by! Let's build something amazing."
 ---
 
 ## ⚡ Tech Stack
